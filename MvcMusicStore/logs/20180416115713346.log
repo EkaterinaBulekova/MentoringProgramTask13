@@ -1,0 +1,17 @@
+Date,Level,Message
+2018-04-16 11:57:13,INFO,Home page started
+2018-04-16 11:57:22,DEBUG,User katrin login successful
+2018-04-16 11:57:22,DEBUG,User LogIn
+2018-04-16 11:57:22,INFO,Home page started
+2018-04-16 11:57:24,DEBUG,User LogOff
+2018-04-16 11:57:24,INFO,Home page started
+2018-04-16 11:57:33,ERROR,Some test exception
+2018-04-16 11:57:36,ERROR,Some test exception
+2018-04-16 11:57:42,INFO,Home page started
+2018-04-16 11:57:49,DEBUG,User katrin login successful
+2018-04-16 11:57:49,DEBUG,User LogIn
+2018-04-16 11:57:49,INFO,Home page started
+2018-04-16 11:57:51,DEBUG,User LogOff
+2018-04-16 11:57:51,INFO,Home page started
+2018-04-16 11:57:53,ERROR,Some test exception
+2018-04-16 11:57:56,INFO,Home page started
